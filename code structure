@@ -1,0 +1,22 @@
+project-root/
+|-- public/
+|   |-- index.html
+|
+|-- src/
+|   |-- components/
+|   |   |-- ProductList.js
+|   |   |-- ProductCard.js
+|   |   |-- Cart.js
+|   |   |-- SearchBar.js
+|
+|   |-- data/
+|   |   |-- fakeProducts.js (Fake Products API data)
+|
+|   |-- styles/
+|   |   |-- App.css
+|
+|   |-- App.js
+|   |-- index.js
+|
+|-- README.md
+|-- package.json
